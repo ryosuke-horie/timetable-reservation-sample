@@ -12,6 +12,7 @@
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <div></div>
 </template>
 
 <style scoped>
