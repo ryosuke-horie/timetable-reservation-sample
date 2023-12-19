@@ -12,7 +12,7 @@
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
-  <div></div>
+  <div>this is a test site</div>
 </template>
 
 <style scoped>
