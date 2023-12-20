@@ -39,6 +39,7 @@
     :time-step="60"
     :events="props.events"
     :on-event-click="handleEventClick"
+    locale="ja"
   />
 
   <div v-if="isModalVisible" class="modal">
